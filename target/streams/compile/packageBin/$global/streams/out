@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/anand/Experiment/kakfa-example/target/scala-2.12/kakfa-example_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/ProducerActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/ProducerActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/ConsumerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/ConsumerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/Producer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/Producer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/Consumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/Consumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/ProducerActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/ProducerActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/ProducerActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/ProducerActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/ProducerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/ProducerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/ConsumerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/ConsumerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/ProducerActor$StartProducing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/ProducerActor$StartProducing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/ProducerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/ProducerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/ConsumerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/ConsumerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kafkatest/ProducerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anand/Experiment/kakfa-example/target/scala-2.12/classes/kafkatest/ProducerApp.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
