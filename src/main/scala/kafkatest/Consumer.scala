@@ -22,7 +22,7 @@ class Consumer {
   def receiveMessages(): Unit = {
     while (true) {
       val records: ConsumerRecords[String, String] = consumer.poll(1000)
-      records.asScala.foreach(record => println(s"Received message: $record"))
+      records.asScala.foreach(record => println(s"Received message: ${record.value} from partition - ${record.partition} and offset ${record.offset}"))
     }
   }
 
